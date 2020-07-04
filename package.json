@@ -1,0 +1,17 @@
+{
+  "name": "graphql-js-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mariehmai/graphql-js-starter.git",
+  "author": "mariehmai <mai.mariehelene@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "prisma-binding": "^2.3.16"
+  },
+  "devDependencies": {
+    "apollo-server-lambda": ">=2.14.2",
+    "apollo-server-express": ">=2.14.2",
+    "graphql-playground-html": ">=1.6.22"
+  }
+}

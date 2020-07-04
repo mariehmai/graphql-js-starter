@@ -1,0 +1,8 @@
+type Event {
+  id: ID! @unique
+  name: String!
+  description: String
+  location: String!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+}
